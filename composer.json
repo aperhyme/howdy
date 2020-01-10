@@ -1,0 +1,12 @@
+{
+  "name": "agrigorenko/328/howdy",
+  "authors": [
+    {
+      "name": "Alex Grigorenko",
+      "email": "agrigorenko@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
